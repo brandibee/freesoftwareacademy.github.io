@@ -1,2 +1,0 @@
-# freesoftwareacademy.github.io
-freesoftwareacademy
